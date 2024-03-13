@@ -6,16 +6,23 @@
 <br>
  
 
+
+
+<p align="center">
+
 <h2 align="center">👤 About me 👤</h2>
 <br>
 <br>
+I'm a university student, Brazilian 🇧🇷, dreaming of a professional career in the programming field.
+<br>
+💼 Information Systems Studentat [UNEB - Campus II](https://portal.uneb.br/)
+<br>
+❤️ I like solving complex problems, student in Dart (Flutter) and Python.
 
-<p align="center">I'm a university student, Brazilian 🇧🇷, dreaming of a professional career in the programming field.</p>  
+</p>  
 
 <p>
-- 💼 Information Systems Studentat [UNEB - Campus II](https://portal.uneb.br/)
-<br>
-- ❤️ I like solving complex problems, student in Dart (Flutter) and Python.
+
 </p>
 
 
