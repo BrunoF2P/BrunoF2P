@@ -3,14 +3,24 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+u.u;I am+BrunoF2P....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<br>
+ 
 
-I'm a university student, Brazilian 🇧🇷, dreaming of a professional career in the programming field.
+<h2 align="center">👤 About me 👤</h2>
+<br>
+<br>
 
-**About me**
+<p align="center">I'm a university student, Brazilian 🇧🇷, dreaming of a professional career in the programming field.</p>  
 
+<p>
 - 💼 Information Systems Studentat [UNEB - Campus II](https://portal.uneb.br/)
-
+<br>
 - ❤️ I like solving complex problems, student in Dart (Flutter) and Python.
+</p>
+
+
+
+
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
