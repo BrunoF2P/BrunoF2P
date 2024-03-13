@@ -4,7 +4,6 @@
   </a>
 </h1>
 <br>
-<hr>
 
 <h2 align="center">👤 About me 👤</h2>
 
