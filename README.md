@@ -4,4 +4,4 @@ I'm a university student, Brazilian 🇧🇷, dreaming of a professional career 
 
 - 💼 Information Systems Studentat [UNEB - Campus II](https://portal.uneb.br/)
 
-- ❤️ How to solve complex problems, student in Dart (Flutter) and Python.
+- ❤️ I like solving complex problems, student in Dart (Flutter) and Python.
