@@ -12,7 +12,7 @@
 <br>
 I'm a university student, Brazilian 🇧🇷, dreaming of a professional career in the programming field.
 <br>
-💼 Information Systems Studentat [UNEB - Campus II](https://portal.uneb.br/)
+💼 Information Systems Studentat <a href="https://portal.uneb.br">UNEB - Campus II</a>
 <br>
 ❤️ I like solving complex problems, student in Dart (Flutter) and Python.
 
