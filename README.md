@@ -1,8 +1,6 @@
-[(https://readme-typing-svg.demolab.com/?lines=Hello+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+u.u;I am+BrunoF2P....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+u.u;I am+BrunoF2P....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
