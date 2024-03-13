@@ -4,13 +4,10 @@
   </a>
 </h1>
 <br>
- 
-
-
-
-<p align="center">
 
 <h2 align="center">👤 About me 👤</h2>
+
+<p align="center">
 <br>
 <br>
 I'm a university student, Brazilian 🇧🇷, dreaming of a professional career in the programming field.
@@ -20,15 +17,6 @@ I'm a university student, Brazilian 🇧🇷, dreaming of a professional career 
 ❤️ I like solving complex problems, student in Dart (Flutter) and Python.
 
 </p>  
-
-<p>
-
-</p>
-
-
-
-
-
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
