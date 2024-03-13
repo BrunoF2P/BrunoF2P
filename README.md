@@ -4,6 +4,7 @@
   </a>
 </h1>
 <br>
+<hr>
 
 <h2 align="center">👤 About me 👤</h2>
 
@@ -17,7 +18,7 @@ I'm a university student, Brazilian 🇧🇷, dreaming of a professional career 
 ❤️ I like solving complex problems, student in Dart (Flutter) and Python.
 
 </p>  
-
+<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <br>
@@ -40,3 +41,5 @@ I'm a university student, Brazilian 🇧🇷, dreaming of a professional career 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrunoF2P&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+<hr>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
